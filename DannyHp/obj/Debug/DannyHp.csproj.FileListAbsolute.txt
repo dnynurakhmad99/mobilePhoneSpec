@@ -1,0 +1,34 @@
+C:\Users\asus\source\repos\DannyHp\DannyHp\bin\Debug\DannyHp.exe.config
+C:\Users\asus\source\repos\DannyHp\DannyHp\bin\Debug\DannyHp.exe
+C:\Users\asus\source\repos\DannyHp\DannyHp\bin\Debug\DannyHp.pdb
+C:\Users\asus\source\repos\DannyHp\DannyHp\obj\Debug\DannyHp.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\DannyHp\DannyHp\obj\Debug\DannyHp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DannyHp\DannyHp\obj\Debug\DannyHp.exe
+C:\Users\asus\source\repos\DannyHp\DannyHp\obj\Debug\DannyHp.pdb
+E:\Danny\DannyHp\DannyHp\bin\Debug\DannyHp.exe.config
+E:\Danny\DannyHp\DannyHp\bin\Debug\DannyHp.exe
+E:\Danny\DannyHp\DannyHp\bin\Debug\DannyHp.pdb
+E:\Danny\DannyHp\DannyHp\obj\Debug\DannyHp.csprojAssemblyReference.cache
+E:\Danny\DannyHp\DannyHp\obj\Debug\DannyHp.csproj.CoreCompileInputs.cache
+E:\Danny\DannyHp\DannyHp\obj\Debug\DannyHp.exe
+E:\Danny\DannyHp\DannyHp\obj\Debug\DannyHp.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.csprojAssemblyReference.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.csproj.CoreCompileInputs.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe.config
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe.config
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.pdb
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.csprojAssemblyReference.cache
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.exe
+F:\Danny\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe.config
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\bin\Debug\DannyHp.pdb
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.csprojAssemblyReference.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.csproj.CoreCompileInputs.cache
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.exe
+C:\Users\Danny Nurakhmad\Documents\Kuliah\Sem 2\Pemrograman\Praktikum 3\DannyHp\DannyHp\obj\Debug\DannyHp.pdb
